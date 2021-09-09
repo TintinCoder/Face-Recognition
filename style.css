@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(252, 123, 145);
+    color: white;
+}
+#title{
+    font-size: 30px;
+    font-weight: 700;
+    background-color: white;
+    color: black;
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+#info{
+    font-weight: bolder;
+    font-size: 19.99px;
+}
+.web{
+    font-weight: bold;
+    font-size: 19px;
+}
+.webcam,
+.snapshot{
+    width: 25%;
+    height: 50%;
+    border: 1px solid black;
+}
+.btn{
+    outline: none;
+}
